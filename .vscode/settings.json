@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"D:/Amir/Programming/Unreal Engine/Cpp UE Games/3- ToonTanks/.git": true,
+		"D:/Amir/Programming/Unreal Engine/Cpp UE Games/3- ToonTanks/.vscode": true,
+		"D:/Amir/Programming/Unreal Engine/Cpp UE Games/3- ToonTanks/Content": true,
+		"D:/Amir/Programming/Unreal Engine/Cpp UE Games/3- ToonTanks/DerivedDataCache": true,
+		"D:/Amir/Programming/Unreal Engine/Cpp UE Games/3- ToonTanks/Intermediate": true,
+		"D:/Amir/Programming/Unreal Engine/Cpp UE Games/3- ToonTanks/Saved": true
+	}
+}

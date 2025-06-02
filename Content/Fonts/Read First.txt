@@ -1,0 +1,103 @@
+Please read this first..!
+
+End User License Agreement
+End User License Agreement (EULA) OMOTU Studio
+This license agreement is a legally binding contract between you, the licensee, and OMOTU Studio (Ibnu Utomo). By downloading, installing and/or using this font software, you
+acknowledge that you understand this license agreement and promise to comply with its terms.
+If you do not accept the terms, please do not complete the purchase transaction or installing
+the font.
+
+1. License & Usage rights
+Upon downloading the Font, you are granted the non-exclusive and non-transferable right to
+use the font software on any number of computers within your organization. By default, each
+OMOTU Studio Typeface has no restrictions to the number of workstations (CPUs) in any
+number of locations.
+The number of output devices (Laser/Color/Inkjet Printers) is not restricted, provided that these
+devices do not store the font software permanently.
+
+2.1 Copyright
+Typeface design and font software – including all updates, expansions, modified versions and
+working copies – are intellectual property of and are owned by OMOTU Studio (Ibnu Utomo). You agree that typeface design and font software are protected by International
+copyright, design patent and trademark laws. All rights reserved unless expressly granted in this
+agreement.
+For your own use and within the conditions granted in this agreement, you are allowed to make
+a backup copy of the font software, documentation and license agreement.
+You are not authorized to distribute the font software in any way, whether by selling, lending,
+donating or otherwise.
+
+2.2 No Transfer of Rights.
+You shall not sell, lease, sublicense, allow to use, or otherwise assign or transfer any of your
+rights, duties or obligations under this Agreement, in whole or in part, to any person or entity.
+Without limiting the foregoing, Typefaces licensed for use by a specific publication shall not be
+transferred to or used by other publications owned or managed by a common corporate
+parent, and/or affiliated with the specific publication to which this license has been granted,
+without the purchase of an additional license from OMOTU Studio.
+A transfer of the license you were granted requires a written permission by OMOTU Studio;
+upon transfer of your license, you must delete the font software and all copies thereof.
+
+3. Printing
+We recommend that you provide your service bureau with a Workflow PDF file with the font
+software embedded.
+
+
+4.1 Embedding in Workflow PDFs
+OMOTU Studio grants you a limited license to embed the Font in Embedded Documents in
+the PDF format (“Workflow PDFs”). OMOTU Studio also grants you the right to circulate
+these PDF documents on the World Wide Web.
+
+4.2 Embedding in Flash Files
+OMOTU Studio grants you a limited license to create and circulate Embedded Documents in
+the SWF format (“Flash Files”) including the Free Font.
+
+4.3 Embedding in commercial products
+OMOTU Studio grants you a limited license to embed the Font software in commercial
+products (Examples: eBooks, games, DVDs or any other Software.).
+
+4.4 Embedding for web
+You may use the Font software in websites in any time on any website. You are allowed to
+use the Font software for web font linking via @font-face. For this purpose, OMOTU Studio is
+working on offering a reliable good quality special web fonts license possibilities in the near
+future.
+Please note that you are allowed to do format conversion of the Font yourself (to web formats
+such as .woff format and .eot format), but only at your own risk! OMOTU Studio will not be
+liable to any loss of kerning-pairs, loss of OpenType features or any other modifications or
+alterations resulting from your own font conversion. Din Studio does NOT grant you the
+right to open the outline data in font modification software and re-generate those files under
+any name or circumstances.
+
+5. Modification
+Any modification of the font software, including conversion into other formats, requires written
+permission by OMOTU Studio. If permission was granted, the copyright for modified font
+software remains with Din Studio, and modified font software too is subject to the
+terms of this license agreement. Thus, modified font software must not be distributed in any
+way.
+
+6. Warranty and limitation of liability
+OMOTU Studio has done everything to produce high quality OpenType fonts. Minimum
+system requirement is Mac OSX or Windows 7/Vista/XP/2000. Please note that not all systems
+or applications support OpenType features and kerning at all or equally well.
+If you do experience any difficulties with our font software, please contact us, and we will do
+our best to resolve any issues. If this should not be possible, we will be pleased to refund your
+money, which shall be the limit of our liability in this transaction.
+Except for this warranty granted, there is no warranty for performance or results obtained by
+using the font software. OMOTU Studio will not be liable for any damages, claims or costs
+whatsoever or any direct, indirect, special, incidental or consequential damages, business
+interruption, nor for lost profits, savings or business information, arising out of any use of, or
+inability to use, the font software.
+
+7. Final provisions
+If you breach any term of this agreement, OMOTU Studio will immediately terminate the
+license and right of use. In the event of termination, you must delete the font software and all
+copies thereof.
+Should individual terms of this contract become invalid or unenforceable, all others will remain
+in full force and effect.
+
+Link to purchase full version and commercial license:
+https://www.creativefabrica.com/designer/omotu/ref/144864/
+
+Thanks for looking, and I hope you enjoy it! Please don't hesitate to drop me a message if you have any issues or queries.
+
+Ibnu Utomo
+Bekasi – West Java
+Indonesia
+Ibnu.blawong2@gmail.com
